@@ -1,3 +1,1 @@
-lib 2
-
-lib2 changed by other proj
+no one in lib2
